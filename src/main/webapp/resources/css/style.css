@@ -1,0 +1,60 @@
+#notesTable{
+    position: absolute;
+    width: 600px;
+    max-height: 600px;
+    top:calc(50% - 300px);
+    left:calc(50% - 300px);
+}
+
+.form-group{
+    margin: 20px;
+}
+
+#loginForm button{
+    width: 100%;
+}
+
+#loginForm{
+    display: block;
+    position: absolute;
+    width: 500px;
+    left: calc(50% - 250px);
+    height: 300px;
+    top: calc(50% - 300px);
+}
+
+#noteform{
+    display: block;
+    position: absolute;
+    width: 500px;
+    left: calc(50% - 250px);
+    height: 500px;
+    top: calc(50% - 250px);
+}
+#noteform .md-form{
+    width: 100%;
+    height: 350px;
+    margin: 20px;
+}
+#noteform .md-form textarea{
+    height: 100%;
+    width: 100%;
+}
+
+#noteform button{
+    width: 29%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#noteform h3{
+    margin-left: 20px;
+}
+
+.fa-search{
+    position: absolute;
+    width: 600px;
+    height: 30px;
+    top:calc(50% - 350px);
+    left:calc(50% - 300px);
+}
